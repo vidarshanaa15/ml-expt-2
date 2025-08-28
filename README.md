@@ -32,17 +32,19 @@ ml-expt-1/
 │   ├── hist.png
 │   ├── metrics.png
 │   ├── missingvals.png
+│   ├── ...
 │   └── residual.png
 ├── Assignment2_ML_Vidarshanaa.pdf  # Lab report
 ├── Assignment2_ML_Vidarshanaa.tex  # Latex report
-└── requirements.txt                # Python packages and versions used
+├── requirements.txt                # Python packages and versions used
+└── svm.tex                         # SVM extensions latex file
 ```
 
 ## 🚀 Instructions to Execute the Code
 
 1. **Clone the Repository**
 ```bash
-   git clone https://github.com/yourusername/ml-expt-2.git
+   git clone https://github.com/vidarshanaa15/ml-expt-2.git
    cd ml-expt-2
 ```
 
